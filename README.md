@@ -2,26 +2,9 @@
 
 **Please do not clone this repository directly. Fork it and `git clone` the forked copy. Look up how to fork a repo.**
 
-## Terminal tips
-For mac, we use Terminal.
-For windows, you need to install cygwin. (http://www.mcclean-cooper.com/valentino/cygwin_install/)
-
-**DO NOT NOT NOT EXECUTE ANY COMMAND THAT LOOKS LIKE THIS: `rm -rf *`.THIS WILL FORCEFULLY DELETE EVERYTHING ON YOUR COMPUTER. DON'T DO IT. PROCEED WITH CAUTION WHEN YOU SEE SOMETHING LIKE THIS.**
-
-
-I'll list some here that you will probably need to know:
-* `ls` lets you see the contents in the current directory
-* `ls -lah` lists the contents in the current directory with file permissions and more information.
-* `cd <directory-name>` goes into a directory
-* `cd ..` goes back one directory
-* `cd ../directory-1/directory-2` goes back one directory, then goes into the directory-1 folder and then directory-2. Can mix n' match.
-* `cd ` goes to root (the top parent folder)
-* `pwd` shows you the complete path to your current directory (useful when you've lost track where you are)
-
-Anything else you don't know how to do, just look it up.
-
-
 ## Github tutorial
+
+Time to learn some git commands in Bash!
 
 **WHEN WORKING ON THE KENTORII.COM REPO OR THE GAMEDEV REPO, MAKE SURE YOU PUSH A BRANCH THAT IS NOT DEVELOP OR MASTER. MAKE A NEW BRANCH that branches off of develop AND WORK/PUSH ON THAT. IT'S OK TO PUSH TO MASTER FOR THIS REPO THOUGH. IT'S MERELY A TEST REPO FOR LEARNING**
 
